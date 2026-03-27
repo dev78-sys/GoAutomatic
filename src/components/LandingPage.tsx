@@ -124,7 +124,7 @@ function LandingPage() {
         <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-serif text-5xl md:text-6xl text-charcoal mb-8 leading-tight">
-              From <span className="text-gold">Manual</span> <span className="text-charcoal">→ </span>
+              From <span className="text-gold">Manual Work</span> <span className="text-charcoal">→ </span>
               <span className="text-gold">Automatic</span>
             </h1>
 
