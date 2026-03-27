@@ -450,7 +450,7 @@ function LandingPage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-gray-200 text-center">
-            <p className="text-gray-500 text-sm">© 2026 Naim Agency. All rights reserved. GlobalWide.</p>
+            <p className="text-gray-500 text-sm">© 2026 Naim Agency. All rights reserved. Globally World Wide</p>
           </div>
         </div>
       </footer>
