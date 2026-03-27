@@ -430,7 +430,7 @@ function LandingPage() {
 
       <footer className="bg-white border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-12 md:gap-16">
+          <div className="flex flex-col md:flex-row items-start justify-start gap-16 md:gap-24">
             <div className="flex-shrink-0">
               <img
                 src="/image.png"
@@ -439,7 +439,7 @@ function LandingPage() {
               />
             </div>
 
-            <div className="flex flex-col gap-4 text-center md:text-left">
+            <div className="flex flex-col gap-4 text-left">
               <p className="text-charcoal text-lg">
                 <span className="font-medium text-gold">WhatsApp:</span> <span className="text-gold">+254751772123</span>
               </p>
