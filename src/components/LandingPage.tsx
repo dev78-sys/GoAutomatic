@@ -130,18 +130,24 @@ function LandingPage() {
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">
               <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm fade-in">
-                <img
-                  src="/20260327_0103_Image_Generation_remix_01kmp2r4sffextkztf38j7qden.png"
-                  alt="Before - Manual customer work"
-                  className="h-48 w-full object-cover rounded-xl mb-6"
-                />
+                <div className="aspect-[4/3] w-full rounded-xl mb-6 overflow-hidden">
+                  <img
+                    src="/20260327_0103_Image_Generation_remix_01kmp2r4sffextkztf38j7qden.png"
+                    alt="Before - Manual customer work"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
                 <h3 className="font-serif text-2xl text-charcoal mb-2">Before</h3>
                 <p className="text-gold">Manual customer work</p>
               </div>
 
               <div className="bg-white rounded-2xl p-8 border-2 border-gold shadow-sm fade-in">
-                <div className="h-48 bg-gray-100 rounded-xl mb-6 flex items-center justify-center">
-                  <span className="text-gray-400">After Image</span>
+                <div className="aspect-[4/3] w-full rounded-xl mb-6 overflow-hidden">
+                  <img
+                    src="/20260327_0112_Image_Generation_simple_compose_01kmp38x7pfb193z8nb1gxn98d.png"
+                    alt="After - Automatic replies + content + lead follow-up"
+                    className="w-full h-full object-contain"
+                  />
                 </div>
                 <h3 className="font-serif text-2xl text-charcoal mb-2">After</h3>
                 <p className="text-gold">Automatic replies + content + lead follow-up</p>
