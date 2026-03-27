@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        gold: '#B8860B',
-        'gold-hover': '#D4A520',
-        'gold-border': 'rgba(184, 134, 11, 0.25)',
-        'gold-tint': 'rgba(184, 134, 11, 0.06)',
-        'gold-light': 'rgba(184, 134, 11, 0.15)',
+        gold: '#C9A961',
+        'gold-hover': '#D4B877',
+        'gold-border': 'rgba(201, 169, 97, 0.25)',
+        'gold-tint': 'rgba(201, 169, 97, 0.06)',
+        'gold-light': 'rgba(201, 169, 97, 0.15)',
         charcoal: '#1f2937',
         muted: '#6b7280',
       },
