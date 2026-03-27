@@ -57,7 +57,7 @@ function LandingPage() {
   const faqs = [
     {
       question: 'How much does this cost?',
-      answer: 'After the free 15-minute call, I give you a clear monthly price based on your business size and what needs automating. Plans start from $397 per month. No setup fee. No long contract. Cancel anytime.'
+      answer: 'After the free 15-minute call, I give you a clear monthly price based on your business size and what needs automating. Plans start from $99.9 per month. No setup fee. No long contract. Cancel anytime.'
     },
     {
       question: 'How long does setup take?',
